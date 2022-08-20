@@ -5,6 +5,8 @@ All widgets are relative to the screen size, so the template should work on any 
 
 Requires Open Stage Control version +1.17
 
+Reaper Forums thread here: https://forum.cockos.com/showthread.php?t=269819
+
 ![](https://i.imgur.com/tuJ35ma.png)
 
 ## Setup
